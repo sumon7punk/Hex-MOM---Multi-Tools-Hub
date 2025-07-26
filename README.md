@@ -1,6 +1,6 @@
 # 🚀 Hex MOM – Multi Tool Hub
 
-![Hex MOM Screenshot](./screenshots/homepage.png)
+![Hex MOM Screenshot](./homepage.png)
 
 > **650+ Premium Frontend Tools at Your Fingertips**
 
@@ -13,13 +13,13 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./homepage.png)
 
 ### Trusted Stats & Features
-![Stats](./screenshots/stats.png)
+![Stats](./stats.png)
 
 ### User Reviews
-![User Reviews](./screenshots/reviews.png)
+![User Reviews](./reviews.png)
 
 ---
 
